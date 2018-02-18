@@ -6,7 +6,7 @@ class Header extends Component {
     return (
       <div className="header">
             <h1> 
-                Parduotuvė
+                Monikos bilietai
             </h1>
             <div className='nav'>
               <ul>
