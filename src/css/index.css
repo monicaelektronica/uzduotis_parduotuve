@@ -1,0 +1,65 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body {
+  margin: 10px;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: #FFECB3;
+}
+
+.app{
+  width: 960px;
+  margin: 0px auto;
+}
+
+h1{
+
+  padding: 10px;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+  text-transform: uppercase;
+  background-color: #FFF59D;
+}
+
+.nav ul{
+  background-color: #FFF176;
+  list-style: none; 
+  padding: 10px;
+}
+.nav ul li{
+  
+  display: inline;
+  padding: 10px;
+}
+.nav ul li:hover{
+  background-color: #FFEE58;
+  
+}
+
+.main-container{
+  margin-top: 10px;
+}
+
+table tbody tr{
+
+}
+table tbody tr td{
+  padding: 5px;
+  border: 1px solid black;
+  margin: 0;
+}
+
+.paging.container{
+  margin-top: 10px;
+}
+.paging{
+  float: left;
+  padding: 10px;
+}
+h2{
+  text-align: center;
+}
+
+
